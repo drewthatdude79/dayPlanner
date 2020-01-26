@@ -30,7 +30,7 @@ body {
     border-radius: 15px;
   }
   
-  .row {
+  #row {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;;
@@ -57,7 +57,7 @@ body {
     color: white;
   }
   
-  .saveBtn {
+  .saveButton {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
